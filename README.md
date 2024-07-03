@@ -34,13 +34,3 @@ This repository documents a self-project focused on building a classifier for th
 ## Usage
 - Clone the repository and explore the provided Jupyter Notebooks for detailed implementation steps and analysis.
 - Ensure PyTorch and necessary libraries are installed to replicate experiments and visualize results.
-
-## Results and Findings
-- Detailed analysis of batch size effects, hyperparameter tuning results, and condition number trends.
-- Performance metrics and visualizations provide insights into model optimization and stability.
-
-## Contact Information
-For any questions or further information, please contact:
-- **Name:** Your Name
-- **Email:** yourname@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/yourprofile)
